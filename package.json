@@ -1,0 +1,13 @@
+{
+  "name": "name-submitter",
+  "version": "1.0.0",
+  "description": "Fastify API + static frontend",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "fastify": "^4.29.1",
+    "@fastify/static": "^6.12.0"
+  }
+}

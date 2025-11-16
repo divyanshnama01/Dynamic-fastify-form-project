@@ -112,5 +112,5 @@ Response:
 Component	Technology
 Backend	Fastify (Node.js)
 Frontend	HTML, CSS, JavaScript
-API	Fetch API
+API	      Fetch API
 Hosting	Replit / Localhost
